@@ -1,6 +1,0 @@
-framework module Pods_SpotBar {
-  umbrella header "Pods-SpotBar-umbrella.h"
-
-  export *
-  module * { export * }
-}
