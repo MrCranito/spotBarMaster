@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotBar/UserViewController.swift"
+            timestampString = "542475268.757605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotBar.UserViewController.__deallocating_deinit"
+                  moduleName = "SpotBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormoreau/Desktop/spotBar/SpotBar/SpotBar/UserViewController.swift"
+                  timestampString = "541391584.4650691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotBar.UserViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SpotBar.UserViewController"
+                  moduleName = "SpotBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormoreau/Desktop/spotBar/SpotBar/SpotBar/UserViewController.swift"
+                  timestampString = "541391584.467644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotBar.UserViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SpotBar.UserViewController"
+                  moduleName = "SpotBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormoreau/Desktop/spotBar/SpotBar/SpotBar/UserViewController.swift"
+                  timestampString = "541391584.470173"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotBar.UserViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SpotBar.UserViewController&gt;"
+                  moduleName = "SpotBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormoreau/Desktop/spotBar/SpotBar/SpotBar/UserViewController.swift"
+                  timestampString = "541391584.473056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotBar.UserViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SpotBar.UserViewController&gt;"
+                  moduleName = "SpotBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormoreau/Desktop/spotBar/SpotBar/SpotBar/UserViewController.swift"
+                  timestampString = "541391584.475654"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotBar/File.swift"
+            timestampString = "541438042.492404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "UserSignIn"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
