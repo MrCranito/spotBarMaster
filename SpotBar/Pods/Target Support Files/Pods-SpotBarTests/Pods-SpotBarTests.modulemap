@@ -1,0 +1,6 @@
+framework module Pods_SpotBarTests {
+  umbrella header "Pods-SpotBarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
