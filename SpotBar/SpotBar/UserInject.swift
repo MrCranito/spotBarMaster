@@ -40,5 +40,10 @@ extension SwinjectStoryboard{
             DataViewController.userService = r.resolve(UserService.self)
         }
         
+        defaultContainer.storyboardInitCompleted(userView.self){
+            r, userView in
+            userView.userService = r.resolve(UserService.self)
+        }
+        
     }
 }

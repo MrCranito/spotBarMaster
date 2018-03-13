@@ -7,13 +7,6 @@ var express = require('express');
    
 module.exports.publicRoutes = function () {
 
-    mongoose.connect('mongodb://localhost/spotbardb', function(err) {
-        if (err) { throw err; }
-        else{
-            console.log("database Connected");
-        }
-      });
-
     
     var router = express.Router();
 
